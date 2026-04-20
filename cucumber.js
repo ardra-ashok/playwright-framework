@@ -7,7 +7,7 @@ module.exports = {
       'src/fixtures/world.ts',
     ],
     requireModule: ['ts-node/register'],
-    timeout: 60000,
+    timeout: 50000,
     format: ['summary'],
   },
 }
